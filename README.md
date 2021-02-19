@@ -12,7 +12,7 @@ The evaluation consists of various mathematical operations and visualizations.
 Ultimately, it pushes two graphs and an edited version of the uploaded video back to the web application.
 2) index.html = this file contains the HTML code for the web application.
 It defines the user interface and the design of the web application.
-3) Technical report.docx = this file contains a clear and brief overview of the software product. 
+3) Technical report.pdf = this file contains a clear and brief overview of the software product. 
 It outlines the technical details and main choices of the implementation.
 4) logo.png = this is the logo of the Posture Awareness App which should be copied in a new folder called "static" in the top level of the user's Google Drive.
 5) output.mp4 = this file is an exemplary video which was converted by the model and shows the relevant keypoints.
